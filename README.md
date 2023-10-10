@@ -1,7 +1,6 @@
 ---
+<b style="color:#000000">Hello, Welcome to my github profile!</b>
 
-### My portfolio website now has a new url.
-
-[Link](https://holmar18.github.io/holmar)
+[Link to portfolio](https://holmar18.github.io/holmar)
 
 ---
